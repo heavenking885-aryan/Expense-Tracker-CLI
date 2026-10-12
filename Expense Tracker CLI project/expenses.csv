@@ -1,0 +1,6 @@
+id,date,amount,category,description
+1,2026-10-01,15.50,Food,Lunch at cafe
+2,2026-10-03,45.00,Transport,Monthly bus pass
+3,2026-10-05,120.00,Groceries,Weekly grocery run
+4,2026-10-08,12.99,Entertainment,Movie ticket
+5,2026-10-10,35.40,Utilities,Internet bill share
